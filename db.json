@@ -14,7 +14,7 @@
   "productOverrides": {},
   "panelInstances": [],
   "autoShare": {
-    "enabled": false,
+    "enabled": true,
     "mappings": [
       {
         "group": "-1003088835023",

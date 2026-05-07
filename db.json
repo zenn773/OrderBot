@@ -76,7 +76,7 @@
       "joinedAt": 1778159976494,
       "language": "id",
       "languageChangedAt": 1778159982912,
-      "activeOrderId": "O1778160197696"
+      "activeOrderId": null
     }
   },
   "orders": {
@@ -114,13 +114,14 @@
       "price": 5000,
       "requireExtra": null,
       "paymentMethod": "binance",
-      "status": "waiting_approval",
+      "status": "cancelled",
       "createdAt": 1778160197697,
       "proofFileId": "AgACAgUAAxkBAAICPWn8lBQH9ZZi5Jmp6BkHJ7xk42-8AALhGGsbi2XhV3fUuMmWkzdYAQADAgADeQADOwQ",
       "chatId": 8509277484,
       "msgId": 572,
       "extraData": null,
-      "binanceCoin": "btc"
+      "binanceCoin": "btc",
+      "ownerMsgId": 575
     }
   },
   "productOverrides": {

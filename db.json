@@ -72,7 +72,7 @@
       "firstName": "Raihan",
       "lastName": "Raihan",
       "username": "pt_locangel123",
-      "lastSeen": 1778159976494,
+      "lastSeen": 1778195919300,
       "joinedAt": 1778159976494,
       "language": "id",
       "languageChangedAt": 1778159982912,
@@ -162,7 +162,8 @@
       "proofFileId": "AgACAgUAAxkBAAICPWn8lBQH9ZZi5Jmp6BkHJ7xk42-8AALhGGsbi2XhV3fUuMmWkzdYAQADAgADeQADOwQ",
       "chatId": 8509277484,
       "msgId": 572,
-      "extraData": null
+      "extraData": null,
+      "ownerMsgId": 588
     }
   },
   "productOverrides": {

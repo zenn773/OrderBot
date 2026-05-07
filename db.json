@@ -78,12 +78,13 @@
       "price": 10000,
       "requireExtra": null,
       "paymentMethod": "qris",
-      "status": "waiting_approval",
+      "status": "approved",
       "createdAt": 1778145844566,
       "proofFileId": "AgACAgUAAxkBAAICMWn8Wjl9DUeyhvHJW3r3tiTCMGqBAAK1E2sbikDoV-3BFjTZOF2OAQADAgADeQADOwQ",
       "chatId": 1541980287,
       "msgId": 560,
-      "extraData": null
+      "extraData": null,
+      "ownerMsgId": 563
     }
   },
   "productOverrides": {

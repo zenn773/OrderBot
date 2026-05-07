@@ -52,6 +52,9 @@
   "productOverrides": {
     "7": {
       "locked": true
+    },
+    "12": {
+      "locked": true
     }
   },
   "panelInstances": [],

@@ -73,7 +73,9 @@
       "lastName": "Raihan",
       "username": "pt_locangel123",
       "lastSeen": 1778159976494,
-      "joinedAt": 1778159976494
+      "joinedAt": 1778159976494,
+      "language": "id",
+      "languageChangedAt": 1778159982912
     }
   },
   "orders": {

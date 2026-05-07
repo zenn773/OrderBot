@@ -50,6 +50,9 @@
   },
   "orders": {},
   "productOverrides": {
+    "3": {
+      "locked": true
+    },
     "7": {
       "locked": true
     },

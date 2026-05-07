@@ -49,7 +49,11 @@
     }
   },
   "orders": {},
-  "productOverrides": {},
+  "productOverrides": {
+    "7": {
+      "locked": true
+    }
+  },
   "panelInstances": [],
   "autoShare": {
     "enabled": true,

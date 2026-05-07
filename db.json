@@ -43,7 +43,9 @@
       "lastName": "NEWERA",
       "username": "AKBARNEWERAA",
       "lastSeen": 1778124231405,
-      "joinedAt": 1778124213839
+      "joinedAt": 1778124213839,
+      "language": "id",
+      "languageChangedAt": 1778124236215
     }
   },
   "orders": {},

@@ -230,6 +230,10 @@
         {
           "label": "Admin",
           "price": 250000
+        },
+        {
+          "label": "Partner",
+          "price": 300000
         }
       ]
     },

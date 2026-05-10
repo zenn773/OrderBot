@@ -234,6 +234,10 @@
         {
           "label": "Partner",
           "price": 300000
+        },
+        {
+          "label": "Moderator",
+          "price": 350000
         }
       ]
     },

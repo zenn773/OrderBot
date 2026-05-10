@@ -215,6 +215,11 @@
     "3": {
       "locked": true
     },
+    "5": {
+      "variantPrices": {
+        "0": 50000
+      }
+    },
     "7": {
       "locked": true
     },

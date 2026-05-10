@@ -226,5 +226,39 @@
       }
     ]
   },
-  "customProducts": []
+  "customProducts": [
+    {
+      "id": 1778406760317,
+      "custom": true,
+      "locked": false,
+      "name": "Otax",
+      "link": "https://t.me/zennproduct/696",
+      "variants": [
+        {
+          "label": "1 Hari",
+          "price": 5000,
+          "type": "daily",
+          "unitLabel": "Hari"
+        },
+        {
+          "label": "1 Bulan",
+          "price": 40000,
+          "type": "monthly",
+          "unitLabel": "Bulan"
+        },
+        {
+          "label": "Full Update",
+          "price": 60000
+        },
+        {
+          "label": "Reseller",
+          "price": 80000
+        },
+        {
+          "label": "Partner",
+          "price": 100000
+        }
+      ]
+    }
+  ]
 }

@@ -28,7 +28,7 @@
       "lastName": "",
       "username": "zennetekel",
       "lastSeen": 1778424240966,
-      "activeOrderId": null
+      "activeOrderId": "O1778424253659"
     },
     "6853948109": {
       "verified": true,
@@ -223,12 +223,13 @@
       "price": 10000,
       "requireExtra": null,
       "paymentMethod": "binance",
-      "status": "waiting_proof",
+      "status": "cancelled",
       "createdAt": 1778424253659,
       "proofFileId": null,
-      "chatId": null,
-      "msgId": null,
-      "extraData": null
+      "chatId": 5845111113,
+      "msgId": 702,
+      "extraData": null,
+      "binanceCoin": "ton"
     }
   },
   "productOverrides": {

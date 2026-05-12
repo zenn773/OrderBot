@@ -316,9 +316,9 @@
       "price": 15000,
       "requireExtra": null,
       "paymentMethod": "qris",
-      "status": "waiting_proof",
+      "status": "waiting_approval",
       "createdAt": 1778555762626,
-      "proofFileId": null,
+      "proofFileId": "AgACAgUAAxkBAAIC1WoCVWoV8sOzbmW1IiGLrrql0J7xAALEEmsbavMQVBgNGuTuF2puAQADAgADeQADOwQ",
       "chatId": 8509277484,
       "msgId": 590,
       "extraData": null

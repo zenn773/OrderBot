@@ -77,7 +77,7 @@
       "joinedAt": 1778159976494,
       "language": "id",
       "languageChangedAt": 1778159982912,
-      "activeOrderId": "O1778555762626"
+      "activeOrderId": null
     },
     "7647432027": {
       "verified": true,
@@ -316,7 +316,7 @@
       "price": 15000,
       "requireExtra": null,
       "paymentMethod": "qris",
-      "status": "waiting_approval",
+      "status": "rejected",
       "createdAt": 1778555762626,
       "proofFileId": "AgACAgUAAxkBAAIC1WoCVWoV8sOzbmW1IiGLrrql0J7xAALEEmsbavMQVBgNGuTuF2puAQADAgADeQADOwQ",
       "chatId": 8509277484,

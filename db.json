@@ -115,7 +115,9 @@
       "joinedAt": 1778503981710
     },
     "8413057918": {
-      "verified": true
+      "verified": true,
+      "language": "id",
+      "languageChangedAt": 1778565207631
     }
   },
   "orders": {

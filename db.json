@@ -126,7 +126,9 @@
       "lastName": "",
       "username": "FachryCollection01",
       "lastSeen": 1779115704485,
-      "joinedAt": 1779115704485
+      "joinedAt": 1779115704485,
+      "language": "id",
+      "languageChangedAt": 1779115707621
     }
   },
   "orders": {

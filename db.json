@@ -389,7 +389,8 @@
       "proofFileId": "AgACAgUAAxkBAAIDBWoLCXdp45EsOF9McN9VdILa0qGTAAJsEWsbf5tZVDzlnjP5mAMlAQADAgADeAADOwQ",
       "chatId": 6853948109,
       "msgId": 600,
-      "extraData": null
+      "extraData": null,
+      "ownerMsgId": 775
     }
   },
   "productOverrides": {

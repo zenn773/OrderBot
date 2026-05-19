@@ -130,10 +130,11 @@
       "firstName": "FACHRY COLLECTION -01",
       "lastName": "",
       "username": "FachryCollection01",
-      "lastSeen": 1779115704485,
+      "lastSeen": 1779204793337,
       "joinedAt": 1779115704485,
       "language": "id",
-      "languageChangedAt": 1779115707621
+      "languageChangedAt": 1779115707621,
+      "lastStart": 1779204793338
     },
     "7221309538": {
       "verified": true,

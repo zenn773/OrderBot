@@ -160,7 +160,9 @@
       "lastStart": 1779194308031
     },
     "8390088900": {
-      "verified": true
+      "verified": true,
+      "language": "es",
+      "languageChangedAt": 1779195853409
     }
   },
   "orders": {

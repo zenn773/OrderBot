@@ -714,85 +714,13 @@
     }
   ],
   "buttonConfig": {
-    "mainMenu": {
-      "style": "primary",
-      "emoji": "5843553939672274145"
-    },
-    "order": {
-      "style": "primary",
-      "emoji": "5988023995125993550"
-    },
-    "owner": {
-      "style": "success",
-      "emoji": "5926742701666995601"
-    },
-    "back": {
-      "style": "danger",
-      "emoji": "5197352392054327515"
-    },
-    "product": {
-      "style": "primary",
-      "emoji": "5843553939672274145"
-    },
-    "live": {
-      "style": "success",
-      "emoji": "5926742701666995601"
-    },
-    "variant": {
-      "style": "primary",
-      "emoji": "5988023995125993550"
-    },
-    "counter": {
-      "style": "primary",
-      "emoji": "5988023995125993550"
-    },
-    "payment": {
-      "style": "primary",
-      "emoji": "5843553939672274145"
-    },
-    "binance": {
-      "style": "primary",
-      "emoji": "5843553939672274145"
-    },
-    "orderCancel": {
-      "style": "danger",
-      "emoji": "5197352392054327515"
-    },
-    "confirmYes": {
-      "style": "success",
-      "emoji": "5926742701666995601"
-    },
-    "confirmNo": {
-      "style": "danger",
-      "emoji": "5197352392054327515"
-    },
-    "ownerPanel": {
-      "style": "primary",
-      "emoji": "5843553939672274145"
-    },
-    "ownerDanger": {
-      "style": "danger",
-      "emoji": "5197352392054327515"
-    },
-    "ownerSuccess": {
-      "style": "success",
-      "emoji": "5926742701666995601"
-    },
-    "approval": {
-      "style": "success",
-      "emoji": "5926742701666995601"
-    },
-    "approvalRej": {
-      "style": "danger",
-      "emoji": "5197352392054327515"
-    },
     "mProduk": {
       "style": "primary",
       "emoji": "5843553939672274145"
     },
     "mOrder": {
       "style": "primary",
-      "emoji": "5843553939672274145"
+      "emoji": "6041705726206808304"
     },
     "mLiveChat": {
       "style": "primary",
@@ -850,6 +778,14 @@
       "style": "danger",
       "emoji": "5197352392054327515"
     },
+    "confirmYes": {
+      "style": "success",
+      "emoji": "5926742701666995601"
+    },
+    "confirmNo": {
+      "style": "danger",
+      "emoji": "5197352392054327515"
+    },
     "payQris": {
       "style": "success",
       "emoji": "5926742701666995601"
@@ -881,6 +817,70 @@
     "coinBack": {
       "style": "danger",
       "emoji": "5197352392054327515"
+    },
+    "orderCancel": {
+      "style": "danger",
+      "emoji": "5197352392054327515"
+    },
+    "ownerPanel": {
+      "style": "primary",
+      "emoji": "5843553939672274145"
+    },
+    "ownerDanger": {
+      "style": "danger",
+      "emoji": "5197352392054327515"
+    },
+    "ownerSuccess": {
+      "style": "success",
+      "emoji": "5926742701666995601"
+    },
+    "approval": {
+      "style": "success",
+      "emoji": "5926742701666995601"
+    },
+    "approvalRej": {
+      "style": "danger",
+      "emoji": "5197352392054327515"
+    },
+    "back": {
+      "style": "danger",
+      "emoji": "5197352392054327515"
+    },
+    "owner": {
+      "style": "success",
+      "emoji": "5926742701666995601"
+    },
+    "mainMenu": {
+      "style": "primary",
+      "emoji": "5843553939672274145"
+    },
+    "live": {
+      "style": "success",
+      "emoji": "5926742701666995601"
+    },
+    "product": {
+      "style": "primary",
+      "emoji": "5843553939672274145"
+    },
+    "order": {
+      "style": "primary",
+      "emoji": "5988023995125993550"
+    },
+    "variant": {
+      "style": "primary",
+      "emoji": "5988023995125993550"
+    },
+    "counter": {
+      "style": "primary",
+      "emoji": "5988023995125993550"
+    },
+    "payment": {
+      "style": "primary",
+      "emoji": "5843553939672274145"
+    },
+    "binance": {
+      "style": "primary",
+      "emoji": "5843553939672274145"
     }
   }
 }

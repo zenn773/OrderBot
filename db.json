@@ -51,11 +51,12 @@
       "firstName": "Zen",
       "lastName": "",
       "username": "zenntekel",
-      "lastSeen": 1779170348277,
+      "lastSeen": 1779297848537,
       "joinedAt": 1778061683776,
       "language": "id",
       "languageChangedAt": 1778061709242,
-      "activeOrderId": null
+      "activeOrderId": null,
+      "lastStart": 1779297848537
     },
     "8596685454": {
       "verified": true,

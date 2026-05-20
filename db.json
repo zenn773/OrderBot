@@ -40,9 +40,9 @@
       "firstName": "𝖹𝖾𝗇𝗇",
       "lastName": "",
       "username": "zennetekel",
-      "lastSeen": 1779258116972,
+      "lastSeen": 1779259238243,
       "activeOrderId": null,
-      "lastStart": 1779258117164
+      "lastStart": 1779259238245
     },
     "6853948109": {
       "verified": true,
@@ -783,6 +783,102 @@
       "emoji": "5926742701666995601"
     },
     "approvalRej": {
+      "style": "danger",
+      "emoji": "5197352392054327515"
+    },
+    "mProduk": {
+      "style": "primary",
+      "emoji": "5843553939672274145"
+    },
+    "mOrder": {
+      "style": "primary",
+      "emoji": "5843553939672274145"
+    },
+    "mLiveChat": {
+      "style": "primary",
+      "emoji": "5843553939672274145"
+    },
+    "mOwnerUrl": {
+      "style": "primary",
+      "emoji": "5843553939672274145"
+    },
+    "mOwnerPanel": {
+      "style": "primary",
+      "emoji": "5843553939672274145"
+    },
+    "pItem": {
+      "style": "primary",
+      "emoji": "5843553939672274145"
+    },
+    "pNav": {
+      "style": "primary",
+      "emoji": "5843553939672274145"
+    },
+    "pBack": {
+      "style": "danger",
+      "emoji": "5197352392054327515"
+    },
+    "oItem": {
+      "style": "primary",
+      "emoji": "5988023995125993550"
+    },
+    "oBack": {
+      "style": "danger",
+      "emoji": "5197352392054327515"
+    },
+    "vItem": {
+      "style": "primary",
+      "emoji": "5988023995125993550"
+    },
+    "vBack": {
+      "style": "danger",
+      "emoji": "5197352392054327515"
+    },
+    "cMinus": {
+      "style": "danger",
+      "emoji": "5197352392054327515"
+    },
+    "cPlus": {
+      "style": "success",
+      "emoji": "5926742701666995601"
+    },
+    "cConfirm": {
+      "style": "success",
+      "emoji": "5926742701666995601"
+    },
+    "cBack": {
+      "style": "danger",
+      "emoji": "5197352392054327515"
+    },
+    "payQris": {
+      "style": "success",
+      "emoji": "5926742701666995601"
+    },
+    "payPaypal": {
+      "style": "primary",
+      "emoji": "5843553939672274145"
+    },
+    "payBinance": {
+      "style": "primary",
+      "emoji": "5843553939672274145"
+    },
+    "payBack": {
+      "style": "danger",
+      "emoji": "5197352392054327515"
+    },
+    "coinUsdt": {
+      "style": "success",
+      "emoji": "5926742701666995601"
+    },
+    "coinBtc": {
+      "style": "primary",
+      "emoji": "5843553939672274145"
+    },
+    "coinTon": {
+      "style": "primary",
+      "emoji": "5843553939672274145"
+    },
+    "coinBack": {
       "style": "danger",
       "emoji": "5197352392054327515"
     }

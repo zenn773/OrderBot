@@ -62,12 +62,12 @@
       "firstName": "Zen",
       "lastName": "",
       "username": "zenntekel",
-      "lastSeen": 1779297848537,
+      "lastSeen": 1779335396360,
       "joinedAt": 1778061683776,
       "language": "id",
       "languageChangedAt": 1778061709242,
       "activeOrderId": null,
-      "lastStart": 1779297848871
+      "lastStart": 1779335396361
     },
     "8596685454": {
       "verified": true,
@@ -910,6 +910,7 @@
   },
   "dailyStarts": {
     "1879952486": 1779334419935,
-    "5845111113": 1779335157578
+    "5845111113": 1779335157578,
+    "6853948109": 1779335396363
   }
 }

@@ -32,7 +32,9 @@
       "lastSeen": 1779333684959,
       "joinedAt": 1779333684959,
       "lastStart": 1779333685772,
-      "verified": true
+      "verified": true,
+      "language": "id",
+      "languageChangedAt": 1779333696325
     },
     "1964793201": {
       "verified": true,

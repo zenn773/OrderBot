@@ -763,6 +763,19 @@
       "status": "active",
       "warned3d": true,
       "warned1d": true
+    },
+    {
+      "telegramUserId": 8341590126,
+      "pteroUserId": 8,
+      "pteroServerId": 9,
+      "serverIdentifier": "550a508c",
+      "serverName": "akiramy-own-serverakira2",
+      "createdAt": 1779349033233,
+      "expiresAt": 1781941033233,
+      "orderId": "O1779348961774",
+      "status": "active",
+      "warned3d": false,
+      "warned1d": false
     }
   ],
   "autoShare": {

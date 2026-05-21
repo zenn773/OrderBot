@@ -99,14 +99,15 @@
     },
     "8509277484": {
       "verified": true,
-      "firstName": "Raihan",
+      "firstName": "Raihan/𝙉𝙏𝙎",
       "lastName": "Raihan",
       "username": "pt_locangel123",
-      "lastSeen": 1779114421285,
+      "lastSeen": 1779380887812,
       "joinedAt": 1778159976494,
       "language": "id",
       "languageChangedAt": 1778159982912,
-      "activeOrderId": null
+      "activeOrderId": null,
+      "lastStart": 1779380887813
     },
     "7647432027": {
       "verified": true,
@@ -1001,6 +1002,7 @@
     "8133142936": 1779336243615,
     "8591521945": 1779336246573,
     "7221309538": 1779344123572,
-    "8341590126": 1779348906906
+    "8341590126": 1779348906906,
+    "8509277484": 1779380887815
   }
 }

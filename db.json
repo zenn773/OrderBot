@@ -682,9 +682,9 @@
       "price": 10000,
       "requireExtra": null,
       "paymentMethod": "qris",
-      "status": "waiting_proof",
+      "status": "waiting_approval",
       "createdAt": 1779381110027,
-      "proofFileId": null,
+      "proofFileId": "AgACAgUAAxkBAAIEVWoPM43c7IEFao2jWgnH6Q7Vd9wxAALFEWsb9Xh4VIXEwv4bEQQYAQADAgADeQADOwQ",
       "chatId": 8509277484,
       "msgId": 1108,
       "extraData": null

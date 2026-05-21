@@ -248,7 +248,7 @@
       "verified": true,
       "language": "id",
       "languageChangedAt": 1779348783686,
-      "activeOrderId": "O1779348961774"
+      "activeOrderId": null
     }
   },
   "orders": {
@@ -660,7 +660,7 @@
       "price": 10000,
       "requireExtra": null,
       "paymentMethod": "qris",
-      "status": "waiting_approval",
+      "status": "approved",
       "createdAt": 1779348961774,
       "proofFileId": "AgACAgQAAxkBAAIEM2oOte4nZLRiTrybiCzAl2AIIdXZAALaDmsbncZxUNt1Jlm2uM4PAQADAgADeAADOwQ",
       "chatId": 8341590126,

@@ -29,9 +29,9 @@
       "firstName": "Kaizenn",
       "lastName": "",
       "username": "yanzzzrr",
-      "lastSeen": 1779333684959,
+      "lastSeen": 1779334419932,
       "joinedAt": 1779333684959,
-      "lastStart": 1779333685772,
+      "lastStart": 1779334419933,
       "verified": true,
       "language": "id",
       "languageChangedAt": 1779333696325
@@ -909,6 +909,7 @@
     }
   },
   "dailyStarts": {
+    "1879952486": 1779334419935,
     "5845111113": 1779334362331
   }
 }

@@ -258,7 +258,8 @@
       "username": "",
       "lastSeen": 1779510582973,
       "joinedAt": 1779510582973,
-      "lastStart": 1779510582974
+      "lastStart": 1779510582974,
+      "verified": true
     }
   },
   "orders": {

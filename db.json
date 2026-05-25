@@ -173,11 +173,11 @@
       "firstName": "⏤͟͟͞͞Xv7 || 𝗭𝘆𝗿𝗼𝗼",
       "lastName": "",
       "username": "zyroosolo",
-      "lastSeen": 1779601251210,
+      "lastSeen": 1779698578105,
       "joinedAt": 1779148060421,
       "language": "id",
       "languageChangedAt": 1779148067285,
-      "lastStart": 1779601251553
+      "lastStart": 1779698578106
     },
     "6909773615": {
       "verified": true,
@@ -1065,5 +1065,7 @@
       "emoji": "5843553939672274145"
     }
   },
-  "dailyStarts": {}
+  "dailyStarts": {
+    "7221309538": 1779698578108
+  }
 }

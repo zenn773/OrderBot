@@ -229,12 +229,12 @@
       "languageChangedAt": 1779318215624
     },
     "8133142936": {
-      "firstName": "ᯓ ✞ Ƙιɳɠ Ριȥȥα",
+      "firstName": "ᯓ ✞ 𝚆𝚑𝚘 𝙿𝚒𝚣?",
       "lastName": "",
       "username": "PizzaNieh",
-      "lastSeen": 1779435538433,
+      "lastSeen": 1779804242397,
       "joinedAt": 1779336242762,
-      "lastStart": 1779435538774,
+      "lastStart": 1779804242399,
       "verified": true,
       "language": "id",
       "languageChangedAt": 1779336301100,
@@ -1066,6 +1066,7 @@
     }
   },
   "dailyStarts": {
-    "8347107367": 1779751462351
+    "8347107367": 1779751462351,
+    "8133142936": 1779804242402
   }
 }

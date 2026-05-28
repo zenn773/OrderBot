@@ -309,7 +309,7 @@
       "verified": true,
       "language": "es",
       "languageChangedAt": 1779930338144,
-      "activeOrderId": "O1779937935788"
+      "activeOrderId": null
     }
   },
   "orders": {
@@ -804,7 +804,7 @@
       "price": 60000,
       "requireExtra": null,
       "paymentMethod": "binance",
-      "status": "waiting_proof",
+      "status": "timeout",
       "createdAt": 1779937935788,
       "proofFileId": null,
       "chatId": 6956744219,

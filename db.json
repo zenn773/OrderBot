@@ -905,6 +905,11 @@
     "7": {
       "locked": true
     },
+    "9": {
+      "variantPrices": {
+        "0": 3000
+      }
+    },
     "10": {
       "variantPrices": {
         "0": 10000,

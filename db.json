@@ -921,7 +921,8 @@
       "proofFileId": "AgACAgUAAxkBAAIExmob0-xzR3Oz8D9_FNazwoFMGAXUAAIND2sbdWzhVAcXkkr_E_fSAQADAgADeQADOwQ",
       "chatId": 6403255973,
       "msgId": 1221,
-      "extraData": null
+      "extraData": null,
+      "ownerMsgId": 1224
     }
   },
   "productOverrides": {

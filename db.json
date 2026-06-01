@@ -326,9 +326,9 @@
       "firstName": "STECU86 [OFFICIAL] (HOKIAN)",
       "lastName": "",
       "username": "STECU86OFFICIAL",
-      "lastSeen": 1780106741409,
+      "lastSeen": 1780322550099,
       "joinedAt": 1779981400366,
-      "lastStart": 1780106741411,
+      "lastStart": 1780322550100,
       "verified": true,
       "language": "id",
       "languageChangedAt": 1779983168360
@@ -1290,6 +1290,7 @@
   "dailyStarts": {
     "1964793201": 1780315341389,
     "8028529682": 1780302919512,
-    "5845111113": 1780303927757
+    "5845111113": 1780303927757,
+    "8245863950": 1780322550102
   }
 }

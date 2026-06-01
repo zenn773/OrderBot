@@ -389,7 +389,9 @@
       "lastSeen": 1780302918568,
       "joinedAt": 1780302918568,
       "lastStart": 1780302918569,
-      "verified": true
+      "verified": true,
+      "language": "id",
+      "languageChangedAt": 1780302946614
     }
   },
   "orders": {

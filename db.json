@@ -1005,7 +1005,8 @@
       "proofFileId": "AgACAgUAAxkBAAIE7Goe3qutblPG9S_D2ASS5kJ-z4WYAAKuEWsbb3v5VL4qyL1m0A2EAQADAgADeQADOwQ",
       "chatId": 7090376257,
       "msgId": 1259,
-      "extraData": null
+      "extraData": null,
+      "ownerMsgId": 1262
     }
   },
   "productOverrides": {

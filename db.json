@@ -432,7 +432,9 @@
       "lastSeen": 1780464688789,
       "joinedAt": 1780464688789,
       "lastStart": 1780464690025,
-      "verified": true
+      "verified": true,
+      "language": "id",
+      "languageChangedAt": 1780464701150
     },
     "7712574427": {
       "firstName": "#𝘝𝘰𝘳𝘻𝘢 𝘎𝘦𝘵𝘚𝘶𝘡𝘰",

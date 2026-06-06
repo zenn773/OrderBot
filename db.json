@@ -118,12 +118,12 @@
       "firstName": "Raihan/𝙉𝙏𝙎",
       "lastName": "Raihan",
       "username": "pt_locangel123",
-      "lastSeen": 1779596102651,
+      "lastSeen": 1780730005171,
       "joinedAt": 1778159976494,
       "language": "id",
       "languageChangedAt": 1778159982912,
       "activeOrderId": null,
-      "lastStart": 1779596102995
+      "lastStart": 1780730005174
     },
     "7647432027": {
       "verified": true,
@@ -1375,6 +1375,7 @@
   "dailyStarts": {
     "5845111113": 1780726036790,
     "8347107367": 1780686394984,
-    "7215092407": 1780694345380
+    "7215092407": 1780694345380,
+    "8509277484": 1780730005178
   }
 }

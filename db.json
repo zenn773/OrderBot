@@ -1101,7 +1101,7 @@
       "orderId": "O1778183056122",
       "status": "active",
       "warned3d": true,
-      "warned1d": false
+      "warned1d": true
     },
     {
       "telegramUserId": 8509277484,

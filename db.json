@@ -1092,7 +1092,8 @@
       "proofFileId": "AgACAgQAAxkBAAIFKmotg4v3SZzbQJ5yF-HiuRC7gTuRAAJ-DWsbhKdgUQlaBisosvn2AQADAgADeAADPAQ",
       "chatId": 8341590126,
       "msgId": 1321,
-      "extraData": null
+      "extraData": null,
+      "ownerMsgId": 1324
     }
   },
   "productOverrides": {

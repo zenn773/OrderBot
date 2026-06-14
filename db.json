@@ -1213,6 +1213,19 @@
       "status": "active",
       "warned3d": false,
       "warned1d": false
+    },
+    {
+      "telegramUserId": 8341590126,
+      "pteroUserId": 2,
+      "pteroServerId": 6,
+      "serverIdentifier": "93c2ff4c",
+      "serverName": "akiramy-own-serverakira2",
+      "createdAt": 1781406343536,
+      "expiresAt": 1783998343536,
+      "orderId": "O1781367609754",
+      "status": "active",
+      "warned3d": false,
+      "warned1d": false
     }
   ],
   "autoShare": {

@@ -69,9 +69,9 @@
       "firstName": "𝖹𝖾𝗇𝗇",
       "lastName": "",
       "username": "zennetekel",
-      "lastSeen": 1780850759752,
+      "lastSeen": 1781633020302,
       "activeOrderId": null,
-      "lastStart": 1780850760067
+      "lastStart": 1781633020304
     },
     "6853948109": {
       "verified": true,
@@ -1444,5 +1444,7 @@
       "emoji": "5843553939672274145"
     }
   },
-  "dailyStarts": {}
+  "dailyStarts": {
+    "5845111113": 1781633020309
+  }
 }

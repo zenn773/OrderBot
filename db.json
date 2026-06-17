@@ -1211,7 +1211,7 @@
       "expiresAt": 1781941033233,
       "orderId": "O1779348961774",
       "status": "active",
-      "warned3d": false,
+      "warned3d": true,
       "warned1d": false
     },
     {

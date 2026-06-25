@@ -331,12 +331,12 @@
       "languageChangedAt": 1779939414614
     },
     "8245863950": {
-      "firstName": "STECU86 [OFFICIAL] (HOKIAN)",
+      "firstName": "TIGER [OFFICIAL]",
       "lastName": "",
-      "username": "STECU86OFFICIAL",
-      "lastSeen": 1780322550099,
+      "username": "TIGERBERSALDO",
+      "lastSeen": 1782364818399,
       "joinedAt": 1779981400366,
-      "lastStart": 1780322550100,
+      "lastStart": 1782364818401,
       "verified": true,
       "language": "id",
       "languageChangedAt": 1779983168360
@@ -1498,5 +1498,7 @@
       "emoji": "5843553939672274145"
     }
   },
-  "dailyStarts": {}
+  "dailyStarts": {
+    "8245863950": 1782364818403
+  }
 }

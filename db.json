@@ -78,7 +78,7 @@
       "lastName": "",
       "username": "zennetekel",
       "lastSeen": 1783060682747,
-      "activeOrderId": "O1783060712586",
+      "activeOrderId": null,
       "lastStart": 1783060683077
     },
     "6853948109": {
@@ -1235,7 +1235,7 @@
       "price": 60000,
       "requireExtra": null,
       "paymentMethod": "binance",
-      "status": "waiting_proof",
+      "status": "cancelled",
       "createdAt": 1783060712586,
       "proofFileId": null,
       "chatId": 5845111113,

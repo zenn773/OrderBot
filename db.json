@@ -78,7 +78,7 @@
       "lastName": "",
       "username": "zennetekel",
       "lastSeen": 1783089359227,
-      "activeOrderId": "O1783089376624",
+      "activeOrderId": null,
       "lastStart": 1783089359527
     },
     "6853948109": {
@@ -1276,7 +1276,7 @@
       "price": 10000,
       "requireExtra": null,
       "paymentMethod": "qris",
-      "status": "waiting_proof",
+      "status": "cancelled",
       "createdAt": 1783089376624,
       "proofFileId": null,
       "chatId": 5845111113,

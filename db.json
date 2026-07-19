@@ -268,9 +268,9 @@
       "firstName": "𝖺𝗄𝗂𝗋𝖺",
       "lastName": "",
       "username": "gratler",
-      "lastSeen": 1782747624058,
+      "lastSeen": 1784440001818,
       "joinedAt": 1779348779543,
-      "lastStart": 1782747624366,
+      "lastStart": 1784440001819,
       "verified": true,
       "language": "id",
       "languageChangedAt": 1779348783686,
@@ -1632,5 +1632,7 @@
       "emoji": "5843553939672274145"
     }
   },
-  "dailyStarts": {}
+  "dailyStarts": {
+    "8341590126": 1784440001820
+  }
 }

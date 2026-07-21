@@ -265,12 +265,12 @@
       "lastStart": 1779336245643
     },
     "8341590126": {
-      "firstName": "𝖺𝗄𝗂𝗋𝖺",
+      "firstName": "𝖠𝗄!𝗋𝖺𝖺 🪬",
       "lastName": "",
       "username": "gratler",
-      "lastSeen": 1784440001818,
+      "lastSeen": 1784672750344,
       "joinedAt": 1779348779543,
-      "lastStart": 1784440002152,
+      "lastStart": 1784672750346,
       "verified": true,
       "language": "id",
       "languageChangedAt": 1779348783686,
@@ -1641,6 +1641,7 @@
     }
   },
   "dailyStarts": {
-    "8416011783": 1784654783937
+    "8416011783": 1784654783937,
+    "8341590126": 1784672750347
   }
 }
